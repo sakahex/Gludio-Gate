@@ -1,7 +1,5 @@
 # Gludio Gate
 
-*Formerly **Aden Express** — same app, new name.*
-
 **Build your own automatic leveling for the Adrenaline bot (Lineage 2 High Five) — for any levels you want.**
 
 Gludio Gate is a leveling script maker: you set up the zones and trips once, for as many levels as you like
