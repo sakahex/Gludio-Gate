@@ -1,8 +1,10 @@
-# Aden Express
+# Gludio Gate
+
+*Formerly **Aden Express** — same app, new name.*
 
 **Build your own automatic leveling for the Adrenaline bot (Lineage 2 High Five) — for any levels you want.**
 
-Aden Express is a leveling script maker: you set up the zones and trips once, for as many levels as you like
+Gludio Gate is a leveling script maker: you set up the zones and trips once, for as many levels as you like
 (1–20, 1–40, 40–76, all the way up...), and your character levels by itself:
 it teleports to town, buys gear, soulshots and potions, walks to the right farm spot for its level,
 turns the bot on, and moves on to the next zone when the character levels up.
@@ -10,7 +12,7 @@ turns the bot on, and moves on to the next zone when the character levels up.
 No scripting needed — everything is set up with clicks, and recorded in game.
 
 Fighting, skills, buffs, potions and pick-up stay in Adrenaline's own settings —
-Aden Express handles **where to go and what to buy**.
+Gludio Gate handles **where to go and what to buy**.
 
 💬 **[Join our Discord](https://discord.gg/PUMUGWgAkY)** for help, news and zone packs.
 
@@ -87,7 +89,7 @@ status and stats in the editor.
 - Everything **saves by itself**.
 
 ### 🔄 Automatic updates
-Aden Express checks for new versions when it starts. Click **Yes** — it updates itself and restarts in seconds.
+Gludio Gate checks for new versions when it starts. Click **Yes** — it updates itself and restarts in seconds.
 Your settings are never overwritten.
 
 ---
@@ -103,32 +105,32 @@ Your settings are never overwritten.
 
 ## 📥 Download & install
 
-1. Open **[Releases](../../releases)** (right side of this page) → newest version → download **`AdenExpressSetup.exe`**.
+1. Open **[Releases](../../releases)** (right side of this page) → newest version → download **`GludioGateSetup.exe`** (called `AdenExpressSetup.exe` in versions up to 1.0.14).
 2. Run it and select your **Adrenaline folder** (the folder that contains `Scripts`).
-3. Aden Express is installed into `Adrenaline\Scripts\Leveling\Aden Express`, with a desktop and Start menu shortcut.
+3. Gludio Gate is installed into `Adrenaline\Scripts\Leveling\Gludio Gate`, with a desktop and Start menu shortcut.
 
 > Windows may show *"Windows protected your PC"* — click **More info → Run anyway**.
 > This happens because the program is new, not because it is harmful.
 
-**Uninstall:** Windows Settings → Apps → Aden Express. Your settings file stays, so nothing is lost if you install again.
+**Uninstall:** Windows Settings → Apps → Gludio Gate. Your settings file stays, so nothing is lost if you install again.
 
 ---
 
 ## 🔑 Activation
 
-1. On first start Aden Express shows your **machine code** (like `ABCD-EFGH-IJKL-MNOP`) — click **Copy**.
+1. On first start Gludio Gate shows your **machine code** (like `ABCD-EFGH-IJKL-MNOP`) — click **Copy**.
 2. Send it to the developer (the person who sent you this link).
 3. Paste the **license key** you get and click **Activate**.
 
-After activation, Aden Express puts the Adrenaline scripts into its folder.
+After activation, Gludio Gate puts the Adrenaline scripts into its folder.
 
 ---
 
 ## ▶️ Quick start
 
 1. Log in your character and set up fighting / buffs / potions in **Adrenaline** as usual.
-2. In Adrenaline, run **`Scripts\Leveling\Aden Express\Leveling_1_40.txt`**.
-3. Open **Aden Express** — the dot in the top bar turns **green** and shows your character's level.
+2. In Adrenaline, run **`Scripts\Leveling\Gludio Gate\Leveling_1_40.txt`**.
+3. Open **Gludio Gate** — the dot in the top bar turns **green** and shows your character's level.
 4. Click **+ Add zone**, set its levels, and build the trip:
    - **Teleport** — chat command or item
    - **+ Add stop** — shops and gatekeepers on the way
@@ -142,7 +144,7 @@ After activation, Aden Express puts the Adrenaline scripts into its folder.
 
 ## 🔄 Updates
 
-When a new version is out, Aden Express asks *"Version X is out — Update now?"* on start.
+When a new version is out, Gludio Gate asks *"Version X is out — Update now?"* on start.
 Click **Yes** — it updates and restarts. After an update, **restart `Leveling_1_40.txt` in Adrenaline**
 so it loads the new script.
 
@@ -164,9 +166,9 @@ You can also check by hand: click the version text in the top bar → **Check fo
 |---|---|
 | *This license key is for another PC* | The key was made for another machine code. Send the code shown on **this** PC. |
 | *This license expired* | Get a new key from the developer. |
-| *Game not connected* | Run `Leveling_1_40.txt` (or `Editor.txt`) in Adrenaline **from the Aden Express folder**. |
+| *Game not connected* | Run `Leveling_1_40.txt` (or `Editor.txt`) in Adrenaline **from the Gludio Gate folder**. |
 | Stats line stays empty | Restart `Leveling_1_40.txt` in Adrenaline (needed after an update). |
-| Antivirus blocks the program | Add an exception for the Aden Express folder, then install again. |
+| Antivirus blocks the program | Add an exception for the Gludio Gate folder, then install again. |
 | Something else | Send the developer the red lines from Adrenaline's log, or ask on **[Discord](https://discord.gg/PUMUGWgAkY)**. |
 
 ---
@@ -174,7 +176,7 @@ You can also check by hand: click the version text in the top bar → **Check fo
 ## 📌 Good to know
 
 - Class changes are done by hand.
-- Aden Express only moves the character — fighting is Adrenaline's job, so set up your fight config there.
+- Gludio Gate only moves the character — fighting is Adrenaline's job, so set up your fight config there.
 
 ---
 
