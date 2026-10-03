@@ -105,7 +105,7 @@ Your settings are never overwritten.
 
 ## 📥 Download & install
 
-1. Open **[Releases](../../releases)** (right side of this page) → newest version → download **`GludioGateSetup.exe`** (called `AdenExpressSetup.exe` in versions up to 1.0.14).
+1. Open **[Releases](../../releases)** (right side of this page) → newest version → download **`GludioGateSetup.exe`**.
 2. Run it and select your **Adrenaline folder** (the folder that contains `Scripts`).
 3. Gludio Gate is installed into `Adrenaline\Scripts\Leveling\Gludio Gate`, with a desktop and Start menu shortcut.
 
